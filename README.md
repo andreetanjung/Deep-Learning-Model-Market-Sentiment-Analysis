@@ -1,6 +1,7 @@
 # Deep-Learning-Model-Market-Sentiment-Analysis
 ### Market Sentiment Analysis on Tokopedia Product with NLP Model
 In this notebook, we will delve into text cleaning for product reviews written in Indonesian language and subsequently implement an NLP model with GRU and LSTM layers. The objective is to classify the reviews into one of three categories: Negative, Neutral, and Positive Sentiment.
+
 Data field description:
   - text: feedback given from the users who have bought the product
   - rating: star rating given for the product
