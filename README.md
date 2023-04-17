@@ -22,3 +22,5 @@ Here is the outline for the notebook:
   - Modeling
   - Model Conclusion
   - Evaluation
+
+Model deployment link https://huggingface.co/spaces/andreetanjung/Milestone2_Phase2
