@@ -33,9 +33,15 @@ Here is the outline for the notebook:
 
 #### Methodology
 - [ ] Text pre-processing
-  - using NLTK
-  - Sastriwi dictionary
-  - own made dictionary for   
+  - using NLTK library
+  - Sastriwi colloquial indonesian lexicon
+  - own made colloquial indonesian lexicon
+- [ ] Handling imbalanced data
+  - using near-miss undersampling method
+- [ ] Text vectorization
+- [ ] Modelling
+  - Comparing LSTM and GRU layer
+  - Tune the best one  
 
 #### Result and Evaluation
 ![Words Sentiment](https://github.com/andreetanjung/Deep-Learning-Model-Market-Sentiment-Analysis/assets/123824152/61a71800-9bdb-400c-b02c-0fa5761e524f)
